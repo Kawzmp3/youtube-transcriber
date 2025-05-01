@@ -1,6 +1,7 @@
-# YouTube Transcriber and Note Generator
+# YouTube AI Agent: Transcriber & Note Generator
 
-A modern desktop application that generates detailed, timestamped notes from YouTube videos using AI.
+An AI-powered desktop application designed to act as your intelligent assistant for digesting YouTube content. This agent extracts full transcripts and generates clean, structured, and timestamped notes using OpenAI’s GPT models — perfect for lectures, podcasts, research, and deep learning.
+
 
 ## Features
 
